@@ -2,7 +2,7 @@
  Name :Vuppala Nithya Santhosshiny 
 Email:nithyasanthu129@gmail.com 
 
-Food &amp Drinks : Domain In this iam going to build a website regarding Food-Drinks Domain-THE BBQ PLACE
+Food &amp Drinks  Domain : In this iam going to build a website regarding Food-Drinks Domain-THE BBQ PLACE
 
 
 
